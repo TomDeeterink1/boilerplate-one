@@ -1,2 +1,2 @@
 # boilerplate-one
-This is my boilerplate for future projects
+This is my boilerplate for future projects,
